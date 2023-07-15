@@ -1,3 +1,4 @@
 Today's date is 15th july.
 
 My first repository
+Today is Saturday.
