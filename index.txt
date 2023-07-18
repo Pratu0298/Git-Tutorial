@@ -4,3 +4,5 @@ My first repository
 Today is Monday.
 
 I need to think something else...
+
+good day
