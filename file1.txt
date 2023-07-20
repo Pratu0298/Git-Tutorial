@@ -1,3 +1,5 @@
 //this is the file one of git repository
 let a=10;
 console.log(a);
+
+this number will give output 10
